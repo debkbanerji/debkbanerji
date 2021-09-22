@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hello There 👋
 
-<!--
-**debkbanerji/debkbanerji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub page!
 
-Here are some ideas to get you started:
+## Contact Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+...
+
+<sub>P.S. I'm not looking for work, but I'm happy to talk if you have technical questions about any of my GitHub projects</sub>
+
+## Projects
+
+## Archive
+These are some of my older projects, mostly born from hackathons. They're unlikely to see updates, but are still fun to look at!
+
+TODO: Finish writing
