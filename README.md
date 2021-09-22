@@ -6,7 +6,7 @@ Welcome to my GitHub page!
 
 ...
 
-<sub>P.S. I'm not looking for work, but I'm happy to talk if you have technical questions about any of my GitHub projects</sub>
+<sub>P.S. I'm not looking for work, but I'm happy to talk if you have technical questions about any of my GitHub stuff</sub>
 
 ## Projects
 
