@@ -13,9 +13,14 @@ Welcome to my GitHub page!
 
 ## Projects
  - [🖼 **Lego Art Remix**](https://lego-art-remix.com) · Powerful computer vision assisted Lego mosaic creator · Over 200,000 images created
- - [📺 **Netflix Sync Party**](https://chrome.google.com/webstore/detail/netflix-sync-party/iglgjeoppncgpbbaildpifdnncgbpofl) · Serverless, lag free Netflix stream syncing · Over 50,000 users
- - [🖥 **Big O Cheat Sheet**](https://bigocheatsheet.io) · The most extensive big O cheat sheet on the web
+ - [💻 **Big O Cheat Sheet**](https://bigocheatsheet.io) · The most extensive big O cheat sheet on the web
+ - [🎬 **Netflix Sync Party**](https://chrome.google.com/webstore/detail/netflix-sync-party/iglgjeoppncgpbbaildpifdnncgbpofl) · Serverless, lag free Netflix stream syncing · Over 50,000 users
  - [🎹 **Lego Pi-ano**](https://lego-pi-ano.debkbanerji.com) · Raspberry Pi powered fully playable Lego piano
+ - [🍔 **Where to eat**](https://wheretoeat.debkbanerji.com/) · The smart app for helping friends decide where to eat
+
+
+
+
 
 TODO: Finish writing
 
