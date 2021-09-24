@@ -12,7 +12,9 @@ Welcome to my GitHub page!
 <sub>P.S. I'm not looking for work opportunities, but I'm happy to talk if you have technical questions about any of my GitHub stuff</sub>
 
 ## Projects
-
+ - [🖼 **Lego Art Remix**](https://lego-art-remix.com) · Powerful computer vision assisted Lego mosaic creator · Over 200,000 images created
+ - [📺 **Netflix Sync Party**](https://chrome.google.com/webstore/detail/netflix-sync-party/iglgjeoppncgpbbaildpifdnncgbpofl) · Serverless, lag free Netflix stream syncing · Over 50,000 users
+ - [🖥 **Big O Cheat Sheet**](https://bigocheatsheet.io) · The most extensive big O cheat sheet on the web
 
 ## Archive
 These are some of my older projects, mostly born from hackathons. They're unlikely to see updates, but are still fun to look at!
