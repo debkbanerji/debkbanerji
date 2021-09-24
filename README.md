@@ -16,6 +16,8 @@ Welcome to my GitHub page!
  - [📺 **Netflix Sync Party**](https://chrome.google.com/webstore/detail/netflix-sync-party/iglgjeoppncgpbbaildpifdnncgbpofl) · Serverless, lag free Netflix stream syncing · Over 50,000 users
  - [🖥 **Big O Cheat Sheet**](https://bigocheatsheet.io) · The most extensive big O cheat sheet on the web
 
+TODO: Finish writing
+
 ## Archive
 These are some of my older projects, mostly born from hackathons. They're unlikely to see updates, but are still fun to look at!
 
