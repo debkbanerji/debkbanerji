@@ -12,23 +12,31 @@ Here you can find source code for some of my weird and wonderful weekend project
 </a>
 
 <a href="https://github.com/debkbanerji/minecraft-bedrock-server">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=minecraft-bedrock-server&bg_color=10,ffafbd,ffc3a0&title_color=24292f&text_color=24292f" />
-</a>
-
-<a href="https://github.com/debkbanerji/big-o-cheat-sheet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=big-o-cheat-sheet&bg_color=10,ffafbd,ffc3a0&title_color=24292f&text_color=24292f" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=minecraft-bedrock-server&bg_color=10,ffafbd,ffc3a0&title_color=24292f&text_color=24292f?v=2" />
 </a>
 
 <a href="https://github.com/debkbanerji/lego-pi-ano">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=lego-pi-ano&bg_color=10,ffafbd,ffc3a0&title_color=24292f&text_color=24292f" />
 </a>
 
-<a href="https://github.com/debkbanerji/playlistify">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=playlistify&bg_color=10,ffafbd,ffc3a0&title_color=24292f&text_color=24292f" />
+<a href="https://github.com/debkbanerji/netflix-sync-party">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=netflix-sync-party&bg_color=10,ffafbd,ffc3a0&title_color=24292f&text_color=24292f" />
+</a>
+
+<a href="https://github.com/debkbanerji/dynamic-programming-visualization">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=dynamic-programming-visualization&bg_color=10,ffafbd,ffc3a0&title_color=24292f&text_color=24292f" />
+</a>
+
+<a href="https://github.com/debkbanerji/big-o-cheat-sheet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=big-o-cheat-sheet&bg_color=10,ffafbd,ffc3a0&title_color=24292f&text_color=24292f" />
 </a>
 
 <a href="https://github.com/debkbanerji/omni-meme">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=omni-meme&bg_color=10,ffafbd,ffc3a0&title_color=24292f&text_color=24292f" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=omni-meme&bg_color=10,ffafbd,ffc3a0&title_color=24292f&text_color=24292f&v=4" />
+</a>
+
+<a href="https://github.com/debkbanerji/playlistify">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=playlistify&bg_color=10,ffafbd,ffc3a0&title_color=24292f&text_color=24292f" />
 </a>
 
 <a href="https://github.com/debkbanerji/halloween-costume-dfs">
@@ -45,14 +53,6 @@ Here you can find source code for some of my weird and wonderful weekend project
 
 <a href="https://github.com/debkbanerji/poke-markov">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=poke-markov&bg_color=10,ffafbd,ffc3a0&title_color=24292f&text_color=24292f" />
-</a>
-
-<a href="https://github.com/debkbanerji/netflix-sync-party">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=netflix-sync-party&bg_color=10,ffafbd,ffc3a0&title_color=24292f&text_color=24292f" />
-</a>
-
-<a href="https://github.com/debkbanerji/dynamic-programming-visualization">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=dynamic-programming-visualization&bg_color=10,ffafbd,ffc3a0&title_color=24292f&text_color=24292f" />
 </a>
 
 ### Contact Me
