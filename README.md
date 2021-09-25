@@ -3,7 +3,7 @@
 Welcome to my GitHub page! Here you can find source code for some of my weird and wonderful weekend projects
 
 ### Projects
-You can find more under the [repositories](https://github.com/debkbanerji?tab=repositories) tab, but this is some of the more recent/fun stuff
+You can see more under the [repositories](https://github.com/debkbanerji?tab=repositories) tab, but this is some of the more recent/fun stuff
 
 <a href="lego-art-remix.com">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=lego-art-remix&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
