@@ -64,4 +64,4 @@ This is some of the more recent/fun stuff - you can see more under the <a href="
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/deb.banerji.9/)](https://www.facebook.com/deb.banerji.9)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/debkbanerji/)](https://instagram.com/debkbanerji)
 <br>
-<sub>P.S. I'm not looking for work opportunities, but I'm happy to talk if you have technical questions about any of my GitHub stuff</sub>
+P.S. I'm not looking for work opportunities, but I'm happy to talk if you have technical questions about any of my GitHub stuff
