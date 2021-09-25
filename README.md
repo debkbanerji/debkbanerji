@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/14082259/134757969-7f327875-fec9-4968-a2c5-ec3f60e471bb.gif" width="100%">
+<img src="https://github.com/debkbanerji/debkbanerji/raw/main/hello-there-obi-wan.gif" width="100%">
 
 #### Welcome to my GitHub page! Here you can find source code for some of my weird and wonderful weekend projects
 
