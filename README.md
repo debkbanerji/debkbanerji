@@ -41,16 +41,16 @@ This is some of the more recent/fun stuff - you can see more under the <a href="
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=playlistify&bg_color=10,fff0f6,fff4ed&title_color=24292f&text_color=24292f" />
 </a>
 
+<a href="https://github.com/debkbanerji/where-to-eat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=where-to-eat&bg_color=10,fff0f6,fff4ed&title_color=24292f&text_color=24292f" />
+</a>
+
 <a href="https://github.com/debkbanerji/halloween-costume-dfs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=halloween-costume-dfs&bg_color=10,fff0f6,fff4ed&title_color=24292f&text_color=24292f" />
 </a>
 
 <a href="https://github.com/debkbanerji/seam-carving-gpu">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=seam-carving-gpu&bg_color=10,fff0f6,fff4ed&title_color=24292f&text_color=24292f" />
-</a>
-
-<a href="https://github.com/debkbanerji/where-to-eat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=where-to-eat&bg_color=10,fff0f6,fff4ed&title_color=24292f&text_color=24292f" />
 </a>
 
 <a href="https://github.com/debkbanerji/poke-markov">
