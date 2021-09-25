@@ -5,7 +5,7 @@ Welcome to my GitHub page! Here you can find source code for some of my weird an
 ### Projects
 You can see more under the [repositories](https://github.com/debkbanerji?tab=repositories) tab, but this is some of the more recent/fun stuff
 
-<a href="lego-art-remix.com">
+<a href="https://lego-art-remix.com" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=lego-art-remix&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
 
