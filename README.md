@@ -1,10 +1,10 @@
 
 <img src="https://user-images.githubusercontent.com/14082259/134757969-7f327875-fec9-4968-a2c5-ec3f60e471bb.gif" width="100%">
 
-Welcome to my GitHub page! Here you can find source code for some of my weird and wonderful weekend projects
+#### Welcome to my GitHub page! Here you can find source code for some of my weird and wonderful weekend projects
 
 ### Projects
-You can see more under the [repositories](https://github.com/debkbanerji?tab=repositories) tab, but this is some of the more recent/fun stuff
+<sub>This is some of the more recent/fun stuff - you can see more under the [repositories](https://github.com/debkbanerji?tab=repositories) tab</sub>
 
 <a href="https://github.com/debkbanerji/lego-art-remix">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=lego-art-remix&bg_color=30,ffafbd,ffc3a0&title_color=24292f&text_color=24292f" />
