@@ -17,6 +17,10 @@ This is some of the more recent/fun stuff - you can see more under the <a href="
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=minecraft-bedrock-server&bg_color=10,fff0f6,fff4ed&title_color=24292f&text_color=24292f" />
 </a>
 
+<a href="https://github.com/debkbanerji/pokemon-decklist-detector">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=pokemon-decklist-detector&bg_color=10,fff0f6,fff4ed&title_color=24292f&text_color=24292f" />
+</a>
+
 <a href="https://github.com/debkbanerji/lego-pi-ano">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=lego-pi-ano&bg_color=10,fff0f6,fff4ed&title_color=24292f&text_color=24292f" />
 </a>
@@ -41,10 +45,6 @@ This is some of the more recent/fun stuff - you can see more under the <a href="
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=playlistify&bg_color=10,fff0f6,fff4ed&title_color=24292f&text_color=24292f" />
 </a>
 
-<a href="https://github.com/debkbanerji/where-to-eat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=where-to-eat&bg_color=10,fff0f6,fff4ed&title_color=24292f&text_color=24292f" />
-</a>
-
 <a href="https://github.com/debkbanerji/halloween-costume-dfs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=debkbanerji&repo=halloween-costume-dfs&bg_color=10,fff0f6,fff4ed&title_color=24292f&text_color=24292f" />
 </a>
@@ -63,5 +63,6 @@ This is some of the more recent/fun stuff - you can see more under the <a href="
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deb-banerji/)](https://www.linkedin.com/in/deb-banerji/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/deb.banerji.9/)](https://www.facebook.com/deb.banerji.9)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/debkbanerji/)](https://instagram.com/debkbanerji)
+[![Twitter Badge](https://img.shields.io/badge/-X-black?style=flat-square&logo=x&logoColor=white&link=https://x.com/debkbanerji/)](https://x.com/debkbanerji)
 <br>
 P.S. I'm not looking for work opportunities, but I'm happy to talk if you have technical questions about any of my GitHub stuff
